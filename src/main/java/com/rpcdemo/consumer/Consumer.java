@@ -1,13 +1,7 @@
 package com.rpcdemo.consumer;
 
-import com.rpcdemo.http.HttpService;
 import com.rpcdemo.proxy.ProxyFactory;
-import com.rpcdemo.regiter.RemoteRegister;
-import com.rpcdemo.provider.URL;
 import com.rpcdemo.service.DemoService;
-
-import java.util.List;
-import java.util.Random;
 
 public class Consumer {
 

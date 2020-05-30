@@ -1,4 +1,4 @@
-package com.rpcdemo.http;
+package com.rpcdemo.agree.http;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

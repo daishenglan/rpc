@@ -1,9 +1,7 @@
 package com.rpcdemo.provider;
 
-import com.rpcdemo.http.HttpService;
+import com.rpcdemo.agree.http.HttpService;
 import com.rpcdemo.impl.DemoServiceImpl;
-import com.rpcdemo.provider.LocalRegister;
-import com.rpcdemo.provider.URL;
 import com.rpcdemo.regiter.RemoteRegister;
 import com.rpcdemo.service.DemoService;
 

@@ -1,13 +1,11 @@
-package com.rpcdemo.http;
+package com.rpcdemo.agree.http;
 
 import org.apache.catalina.*;
 import org.apache.catalina.connector.Connector;
 import org.apache.catalina.core.StandardContext;
 import org.apache.catalina.core.StandardEngine;
 import org.apache.catalina.core.StandardHost;
-import org.apache.catalina.servlets.DefaultServlet;
 import org.apache.catalina.startup.Tomcat;
-import sun.rmi.transport.Connection;
 
 public class HttpService {
 

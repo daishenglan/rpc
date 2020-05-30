@@ -1,9 +1,7 @@
-package com.rpcdemo.http;
+package com.rpcdemo.agree.http;
 
 import com.rpcdemo.consumer.Invoker;
 import com.rpcdemo.provider.LocalRegister;
-import com.sun.net.httpserver.HttpExchange;
-import com.sun.net.httpserver.HttpHandler;
 import org.apache.commons.io.IOUtils;
 
 import javax.servlet.http.HttpServletRequest;
